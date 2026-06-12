@@ -21,6 +21,14 @@ hardware or load it in any Plus/4 emulator (`xplus4 -autostart vectorstream.prg`
 First-time VICE setup (the Debian package ships without ROMs):
 `bash tools/get_roms.sh`
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Title screen](media/title.png) | ![Cube](media/cube.png) |
+| ![Dodecahedron](media/dodeca.png) | ![Hexahedron](media/hex.png) |
+| ![Mega dodecahedron](media/mega.png) | ![Finale](media/finale.png) |
+
 ## Repository layout
 
 ```
