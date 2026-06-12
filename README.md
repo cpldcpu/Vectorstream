@@ -10,7 +10,9 @@ and the model had to iterate many times to fix various bugs. The are interesting
 decisions, like fully scripting the demo in a json file and compiling and linking that with
 various scripts.
 
-It seems 8 bit coders are still somewhat safe from being replaced by AI.
+It seems 8 bit coders are still somewhat safe from being replaced by AI...
+
+Everything below this line is AI generated.
 
 ---
 
