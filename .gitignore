@@ -1,0 +1,31 @@
+# Build outputs
+build/*.prg
+build/*.bin
+build/*.v10cs
+build/*.txt
+build/*.png
+build/assets.asm
+
+# Release binary tracked at root (vectorstream.prg) — do not ignore it
+
+
+# Music build outputs
+music/ted_tunes.prg
+music/symbols.txt
+
+# v10cs build outputs
+v10cs/v9_decode
+v10cs/v10_decode
+v10cs/*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+*.swp
+*~
+Thumbs.db
